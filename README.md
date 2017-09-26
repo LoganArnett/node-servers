@@ -1,5 +1,5 @@
 # node-servers
-A repo of boilerplatesg for various node servers
+A repo of boilerplates for various node servers
 
 ![Express](http://cloud.loganarnett.com/2X2l1r1N0p1V/Image%202017-09-26%20at%2010.58.41%20AM.png)
 
