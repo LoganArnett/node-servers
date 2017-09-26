@@ -1,2 +1,2 @@
 # node-servers
-A repo of boilerplatesg for various node servers
+A repo of boilerplates for various node servers
